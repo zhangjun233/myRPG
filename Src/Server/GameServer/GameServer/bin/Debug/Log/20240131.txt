@@ -1,0 +1,52 @@
+
+2024-01-31 00:50:35,725 [1] [INFO ] [GameServer] £∫Game Server Init
+2024-01-31 00:50:36,059 [1] [WARN ] [GameServer] £∫Starting Listener...
+2024-01-31 00:50:36,082 [6] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,082 [17] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,082 [14] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,110 [7] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,110 [5] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,110 [9] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,112 [12] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,112 [10] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 00:50:36,170 [1] [WARN ] [GameServer] £∫NetService Started
+2024-01-31 00:50:49,392 [3] [WARN ] [GameServer] £∫Client[127.0.0.1:57084]] Connected
+2024-01-31 00:50:49,444 [3] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 00:50:49,539 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 00:52:15,099 [21] [WARN ] [GameServer] £∫Client[] Disconnected
+2024-01-31 00:54:35,746 [21] [WARN ] [GameServer] £∫Client[127.0.0.1:57319]] Connected
+2024-01-31 00:54:35,787 [21] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 00:54:35,787 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 00:55:02,680 [16] [WARN ] [GameServer] £∫Client[] Disconnected
+2024-01-31 01:04:24,942 [16] [WARN ] [GameServer] £∫Client[127.0.0.1:57907]] Connected
+2024-01-31 01:04:24,981 [16] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 01:04:24,981 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 01:04:36,183 [16] [WARN ] [GameServer] £∫Client[] Disconnected
+2024-01-31 01:19:54,726 [16] [WARN ] [GameServer] £∫Client[127.0.0.1:58915]] Connected
+2024-01-31 01:19:54,768 [16] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 01:19:54,768 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 01:20:00,773 [69] [WARN ] [GameServer] £∫Client[] Disconnected
+2024-01-31 23:48:03,255 [1] [INFO ] [GameServer] £∫Game Server Init
+2024-01-31 23:48:03,581 [1] [WARN ] [GameServer] £∫Starting Listener...
+2024-01-31 23:48:03,588 [5] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,588 [15] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,612 [14] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,612 [12] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,613 [8] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,613 [6] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,613 [9] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,614 [11] [WARN ] [GameServer] £∫MessageDistribute thread start
+2024-01-31 23:48:03,686 [1] [WARN ] [GameServer] £∫NetService Started
+2024-01-31 23:49:17,353 [3] [WARN ] [GameServer] £∫Client[127.0.0.1:53045]] Connected
+2024-01-31 23:49:17,393 [3] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 23:49:17,484 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 23:49:53,964 [16] [WARN ] [GameServer] £∫Client[] DataReceived Len:19
+2024-01-31 23:49:53,966 [5] [INFO ] [GameServer] £∫UserCreateCharacterRequest: charname:’≈ø°1  class:Warrior
+2024-01-31 23:50:34,221 [16] [WARN ] [GameServer] £∫Client[] Disconnected
+2024-01-31 23:56:48,814 [16] [WARN ] [GameServer] £∫Client[127.0.0.1:53514]] Connected
+2024-01-31 23:56:48,855 [16] [WARN ] [GameServer] £∫Client[] DataReceived Len:18
+2024-01-31 23:56:48,855 [5] [INFO ] [GameServer] £∫UserLoginRequest: User:123  Pass:123
+2024-01-31 23:57:06,255 [25] [WARN ] [GameServer] £∫Client[] DataReceived Len:23
+2024-01-31 23:57:06,256 [5] [INFO ] [GameServer] £∫UserCreateCharacterRequest: charname:zahngjun233  class:Archer
+2024-01-31 23:57:38,709 [24] [WARN ] [GameServer] £∫Client[] DataReceived Len:23
+2024-01-31 23:57:38,710 [5] [INFO ] [GameServer] £∫UserCreateCharacterRequest: charname:zahngjun233  class:Archer

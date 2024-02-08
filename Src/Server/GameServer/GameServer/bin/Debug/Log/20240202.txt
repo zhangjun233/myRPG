@@ -1,0 +1,30 @@
+
+2024-02-02 21:52:57,371 [1] [INFO ] [GameServer] £ºGame Server Init
+2024-02-02 21:52:57,691 [1] [WARN ] [GameServer] £ºStarting Listener...
+2024-02-02 21:52:57,765 [5] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,765 [7] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [6] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [14] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [9] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [10] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [11] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,766 [17] [WARN ] [GameServer] £ºMessageDistribute thread start
+2024-02-02 21:52:57,804 [1] [WARN ] [GameServer] £ºNetService Started
+2024-02-02 21:53:35,721 [3] [WARN ] [GameServer] £ºClient[127.0.0.1:58862]] Connected
+2024-02-02 21:53:35,759 [3] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2024-02-02 21:53:35,850 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:123  Pass:123
+2024-02-02 21:59:36,010 [8] [WARN ] [GameServer] £ºClient[] Disconnected
+2024-02-02 21:59:59,145 [8] [WARN ] [GameServer] £ºClient[127.0.0.1:59649]] Connected
+2024-02-02 21:59:59,187 [8] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2024-02-02 21:59:59,188 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:123  Pass:123
+2024-02-02 22:01:20,516 [8] [WARN ] [GameServer] £ºClient[] Disconnected
+2024-02-02 22:01:29,656 [8] [WARN ] [GameServer] £ºClient[127.0.0.1:59808]] Connected
+2024-02-02 22:01:29,692 [8] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2024-02-02 22:01:29,693 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:123  Pass:123
+2024-02-02 22:01:48,137 [8] [WARN ] [GameServer] £ºClient[] Disconnected
+2024-02-02 22:02:29,956 [26] [WARN ] [GameServer] £ºClient[127.0.0.1:59862]] Connected
+2024-02-02 22:02:29,997 [28] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2024-02-02 22:02:29,997 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:123  Pass:213
+2024-02-02 22:02:34,559 [28] [WARN ] [GameServer] £ºClient[] DataReceived Len:18
+2024-02-02 22:02:34,560 [5] [INFO ] [GameServer] £ºUserLoginRequest: User:123  Pass:123
+2024-02-02 22:02:42,403 [28] [WARN ] [GameServer] £ºClient[] Disconnected

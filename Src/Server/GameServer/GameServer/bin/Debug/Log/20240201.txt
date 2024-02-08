@@ -1,0 +1,233 @@
+
+2024-02-01 00:03:51,549 [24] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 00:30:00,099 [39] [WARN ] [GameServer] ：Client[127.0.0.1:55457]] Connected
+2024-02-01 00:30:00,140 [86] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 00:30:40,152 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [39] [WARN ] [GameServer] ：Client[] DataReceived Len:162
+2024-02-01 00:30:40,152 [9] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [8] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [11] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [12] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [15] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,152 [14] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,292 [9] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [14] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: ExecuteReader 要求已打开且可用的 Connection。连接的当前状态为已关闭。
+   在 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior), 执行命令定义时出错。有关详细信息，请参阅内部异常。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   在 System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [12] [ERROR] [GameServer] ：Message handler exception:System.ArgumentOutOfRangeException: SqlDbType 枚举值 0 无效。
+参数名: SqlDbType
+   在 System.Data.SqlClient.MetaType.GetSqlDataType(Int32 tdsType, UInt32 userType, Int32 length)
+   在 System.Data.SqlClient.TdsParser.TryProcessTypeInfo(TdsParserStateObject stateObj, SqlMetaDataPriv col, UInt32 userType)
+   在 System.Data.SqlClient.TdsParser.TryCommonProcessMetaData(TdsParserStateObject stateObj, _SqlMetaData col, Nullable`1 cipherTable, Boolean fColMD, SqlCommandColumnEncryptionSetting columnEncryptionSetting)
+   在 System.Data.SqlClient.TdsParser.TryProcessMetaData(Int32 cColumns, TdsParserStateObject stateObj, _SqlMetaDataSet& metaData, SqlCommandColumnEncryptionSetting columnEncryptionSetting)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior), 执行命令定义时出错。有关详细信息，请参阅内部异常。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   在 System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [8] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [15] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 已有打开的与此 Command 相关联的 DataReader，必须首先将它关闭。
+   在 System.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   在 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior), 执行命令定义时出错。有关详细信息，请参阅内部异常。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   在 System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [5] [ERROR] [GameServer] ：Message handler exception:, 内部连接致命错误。错误状态: 15，标记: 0, System.Data,    在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryCloseInternal(Boolean closeReader)
+   在 System.Data.SqlClient.SqlDataReader.Close()
+   在 System.Data.Common.DbDataReader.Dispose(Boolean disposing)
+   在 System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.Finally()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.Dispose()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,292 [11] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:30:40,345 [9] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,398 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:30:40,581 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-01 00:31:26,254 [86] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 00:33:08,352 [85] [WARN ] [GameServer] ：Client[127.0.0.1:55591]] Connected
+2024-02-01 00:33:08,395 [77] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 00:34:02,740 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-01 00:34:02,859 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-01 00:34:02,868 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,868 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,894 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 00:34:02,967 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-01 00:34:03,033 [4] [WARN ] [GameServer] ：Client[127.0.0.1:55623]] Connected
+2024-02-01 00:34:07,781 [4] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 00:34:23,865 [4] [WARN ] [GameServer] ：Client[127.0.0.1:55637]] Connected
+2024-02-01 00:34:23,909 [4] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 00:34:24,004 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:35:13,796 [19] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 00:36:50,419 [13] [WARN ] [GameServer] ：Client[127.0.0.1:55767]] Connected
+2024-02-01 00:36:50,460 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 00:36:50,460 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:37:20,925 [11] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 00:41:45,784 [11] [WARN ] [GameServer] ：Client[127.0.0.1:56050]] Connected
+2024-02-01 00:41:45,825 [11] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 00:41:45,827 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 00:42:11,279 [26] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-01 01:06:16,092 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-01 01:06:16,288 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-01 01:06:16,318 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,318 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,318 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,338 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,338 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,338 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,338 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,338 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-01 01:06:16,393 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-01 01:06:39,286 [3] [WARN ] [GameServer] ：Client[127.0.0.1:57542]] Connected
+2024-02-01 01:06:39,324 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-01 01:06:39,412 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-01 01:07:43,100 [9] [WARN ] [GameServer] ：Client[] DataReceived Len:15
+2024-02-01 01:07:43,102 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: charname:111  class:Archer
+2024-02-01 01:13:25,994 [16] [WARN ] [GameServer] ：Client[] Disconnected

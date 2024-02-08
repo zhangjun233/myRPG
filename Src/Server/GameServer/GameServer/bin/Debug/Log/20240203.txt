@@ -1,0 +1,31 @@
+
+2024-02-03 23:37:28,136 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:37:28,469 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:40:41,759 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:40:41,962 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:42:31,258 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:42:31,452 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:45:32,960 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:45:33,170 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:47:57,705 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:47:57,906 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:55:05,547 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:55:05,656 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:56:10,914 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:56:11,018 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:57:30,141 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-03 23:57:30,247 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-03 23:57:30,476 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-03 23:57:30,495 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-03 23:57:30,495 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-03 23:57:30,495 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-03 23:57:30,496 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-03 23:57:30,545 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,545 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,545 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,545 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,545 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,546 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,546 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,547 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-03 23:57:30,637 [1] [WARN ] [GameServer] ：NetService Started

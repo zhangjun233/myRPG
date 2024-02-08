@@ -1,0 +1,9 @@
+D:\iGame\myRPG\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\iGame\myRPG\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\iGame\myRPG\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\iGame\myRPG\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\iGame\myRPG\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\iGame\myRPG\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+D:\iGame\myRPG\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\iGame\myRPG\Src\Lib\Protocol\obj\Debug\Protocol.pdb
+D:\iGame\myRPG\Src\Lib\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache

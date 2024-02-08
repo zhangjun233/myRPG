@@ -1,0 +1,387 @@
+
+2024-02-05 20:41:39,020 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 20:41:39,129 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 20:41:39,379 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 20:41:39,397 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 20:41:39,397 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 20:41:39,397 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 20:41:39,398 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 20:41:39,431 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,431 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,434 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:41:39,505 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 20:51:59,536 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 20:51:59,649 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 20:51:59,885 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 20:51:59,904 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 20:51:59,904 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 20:51:59,904 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 20:51:59,905 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 20:51:59,947 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,948 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:51:59,949 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:52:00,045 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 20:52:18,430 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63489]] Connected
+2024-02-05 20:52:18,477 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:52:26,065 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:52:47,508 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:00,216 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,013 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,142 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,268 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,541 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,671 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:02,881 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:03,005 [19] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:23,656 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 20:53:23,755 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 20:53:23,968 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 20:53:23,970 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 20:53:23,971 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 20:53:23,971 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 20:53:23,971 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 20:53:23,981 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:23,981 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:23,981 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:23,981 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:24,005 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:24,005 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:24,005 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:24,005 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:53:24,080 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 20:53:34,691 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63548]] Connected
+2024-02-05 20:53:34,731 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:45,200 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:45,432 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:53:45,561 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:54:15,630 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:54:22,233 [8] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:55:12,045 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 20:55:12,145 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 20:55:12,370 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 20:55:12,372 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 20:55:12,373 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 20:55:12,373 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 20:55:12,373 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 20:55:12,415 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,415 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,415 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,415 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,415 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,415 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,416 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,416 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:55:12,483 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 20:55:27,276 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63626]] Connected
+2024-02-05 20:55:27,312 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:56:30,051 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:56:45,940 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:56:53,114 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:56:55,581 [14] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 20:57:13,198 [14] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 20:59:58,784 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 20:59:58,882 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 20:59:59,086 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 20:59:59,088 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 20:59:59,088 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 20:59:59,088 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 20:59:59,089 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 20:59:59,128 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,128 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,129 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,129 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,129 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,129 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,129 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,131 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 20:59:59,199 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:00:36,039 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63810]] Connected
+2024-02-05 21:00:36,078 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:02:04,097 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:04:54,319 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:04:54,378 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:05:24,415 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:05:24,517 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:05:24,737 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 21:05:24,740 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 21:05:24,740 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 21:05:24,740 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 21:05:24,740 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:05:24,783 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [19] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,783 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,784 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:05:24,886 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:05:28,655 [3] [WARN ] [GameServer] ：Client[127.0.0.1:63991]] Connected
+2024-02-05 21:05:28,690 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:05:29,537 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:05:29,729 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:05:29,937 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:08:57,083 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:08:57,185 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:08:57,447 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 21:08:57,465 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 21:08:57,466 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 21:08:57,466 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 21:08:57,466 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:08:57,538 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,538 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:08:57,644 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:09:37,116 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50318]] Connected
+2024-02-05 21:09:37,155 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:12:09,250 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:12:09,365 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:12:09,616 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 21:12:09,618 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 21:12:09,618 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 21:12:09,619 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 21:12:09,619 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:12:09,690 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,691 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:12:09,762 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:13:50,247 [3] [WARN ] [GameServer] ：Client[127.0.0.1:50452]] Connected
+2024-02-05 21:13:50,327 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:23,371 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:25,053 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:25,481 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:25,696 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:27,328 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:27,489 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:27,639 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:27,776 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:28,063 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:28,218 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:14:29,740 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:29,895 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,046 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,187 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,321 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,447 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,566 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,681 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:14:30,772 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2024-02-05 21:25:52,607 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:25:52,714 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:25:52,926 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 21:25:52,945 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 21:25:52,945 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 21:25:52,945 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 21:25:52,946 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:25:53,009 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,009 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:25:53,054 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:26:05,543 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51168]] Connected
+2024-02-05 21:26:05,579 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:26:22,928 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:33:28,709 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:33:28,897 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:33:28,966 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:28,966 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:33:29,042 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:33:45,568 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51438]] Connected
+2024-02-05 21:33:45,607 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:33:45,697 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:34:04,943 [21] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:40:59,289 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 21:40:59,338 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 21:40:59,557 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 21:40:59,575 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 21:40:59,576 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 21:40:59,576 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 21:40:59,626 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 21:40:59,632 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,633 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,634 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,661 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,661 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,661 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,661 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,661 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 21:40:59,736 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 21:43:06,912 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51813]] Connected
+2024-02-05 21:43:06,948 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:43:07,030 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:43:11,092 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:43:11,094 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:43:11,123 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:52:50,461 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:53:09,112 [28] [WARN ] [GameServer] ：Client[127.0.0.1:52064]] Connected
+2024-02-05 21:53:09,155 [31] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:53:55,824 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:53:55,824 [28] [WARN ] [GameServer] ：Client[] DataReceived Len:72
+2024-02-05 21:53:55,825 [6] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:53:55,825 [12] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:53:55,825 [7] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:53:55,825 [13] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:53:55,888 [7] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-05 21:53:55,888 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-05 21:53:55,888 [12] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-05 21:53:55,899 [13] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserSerevice.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\iGame\myRPG\Src\Server\GameServer\GameServer\Services\UserSerevice.cs:行号 36
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\iGame\myRPG\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2024-02-05 21:54:30,574 [32] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:54:45,478 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:54:45,479 [34] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:54:45,543 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:54:45,544 [6] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:54:45,549 [6] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:54:53,682 [36] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:54:53,682 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:54:53,687 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:55:58,932 [32] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:56:49,141 [32] [WARN ] [GameServer] ：Client[127.0.0.1:52166]] Connected
+2024-02-05 21:56:49,179 [32] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:56:49,179 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:56:56,844 [42] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:56:56,844 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:56:56,850 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:57:03,971 [41] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:57:15,510 [41] [WARN ] [GameServer] ：Client[127.0.0.1:52174]] Connected
+2024-02-05 21:57:15,551 [41] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:57:15,552 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:57:17,891 [45] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:57:17,891 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:57:17,895 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 21:57:42,285 [45] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 21:59:50,342 [48] [WARN ] [GameServer] ：Client[127.0.0.1:52225]] Connected
+2024-02-05 21:59:50,380 [51] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 21:59:50,381 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 21:59:52,256 [48] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 21:59:52,257 [5] [INFO ] [GameServer] ：<log4net.Error>Exception during StringFormat: 索引(从零开始)必须大于或等于零，且小于参数列表的大小。 <format>UserGameEnterRequest: characterID:{0}:{1} Map:{3}</format><args>{1002, 张俊1, 1}</args></log4net.Error>
+2024-02-05 21:59:52,262 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 22:00:05,493 [52] [WARN ] [GameServer] ：Client[] Disconnected
+2024-02-05 22:06:35,798 [1] [INFO ] [GameServer] ：Game Server Init
+2024-02-05 22:06:35,854 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2024-02-05 22:06:36,094 [1] [INFO ] [GameServer] ：MapManger.Init > Map:1:奥特兰
+2024-02-05 22:06:36,097 [1] [INFO ] [GameServer] ：MapManger.Init > Map:2:野外1
+2024-02-05 22:06:36,097 [1] [INFO ] [GameServer] ：MapManger.Init > Map:3:野外2
+2024-02-05 22:06:36,097 [1] [INFO ] [GameServer] ：MapManger.Init > Map:4:副本1
+2024-02-05 22:06:36,143 [1] [WARN ] [GameServer] ：Starting Listener...
+2024-02-05 22:06:36,185 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,187 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,187 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,187 [17] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,187 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,213 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,213 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,213 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2024-02-05 22:06:36,289 [1] [WARN ] [GameServer] ：NetService Started
+2024-02-05 22:06:38,809 [3] [WARN ] [GameServer] ：Client[127.0.0.1:52442]] Connected
+2024-02-05 22:06:38,854 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2024-02-05 22:06:38,941 [5] [INFO ] [GameServer] ：UserLoginRequest: User:123  Pass:123
+2024-02-05 22:06:43,488 [21] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2024-02-05 22:06:43,490 [5] [INFO ] [GameServer] ：UserGameEnterRequest: characterID:1002:张俊1 Map:1
+2024-02-05 22:06:43,494 [5] [INFO ] [GameServer] ：CharacterEnter: Map:1 characterId:0
+2024-02-05 22:13:17,005 [21] [WARN ] [GameServer] ：Client[] Disconnected

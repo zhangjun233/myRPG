@@ -1,0 +1,14 @@
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\Common.dll
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\Common.pdb
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\log4net.dll
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\protobuf-net.dll
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\Protocol.dll
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\UnityEngine.dll
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\Protocol.pdb
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\log4net.xml
+D:\iGame\myRPG\Src\Lib\Common\bin\Debug\protobuf-net.xml
+D:\iGame\myRPG\Src\Lib\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\iGame\myRPG\Src\Lib\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\iGame\myRPG\Src\Lib\Common\obj\Debug\Common.csproj.CopyComplete
+D:\iGame\myRPG\Src\Lib\Common\obj\Debug\Common.dll
+D:\iGame\myRPG\Src\Lib\Common\obj\Debug\Common.pdb
